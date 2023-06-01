@@ -1,29 +1,39 @@
 ---
 layout: post
-title: "Welcome"
+title: "Usefull Websites"
 date:   2023-06-01 12:43:16 +0530
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+`Here are some usefull websites that came across which will be worth your time`
 
-`YEAR-MONTH-DAY-title.MARKUP`
+[Fireship][fireship] :
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+`This website has a lot of free courses that are interesting.`
 
-Jekyll also offers powerful support for code snippets:
+[FreeCodeCamp][fcc] :
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+`From beginner to a full stack developer free code camp courses have potential to turn yourself into a coding machine.`
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+[Ligen][libgen] :
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+`The books which will cost you hundreads of ruppes will be made available for free.`
+
+[Whimsical][whimsical] :
+
+`If you like making mind maps and wireframes. This is your website.`
+
+[Codepen][cp]
+
+`Explore the infinite world of the front development.`
+
+`List is Growing`
+
+`I will be back with more usefull stuff`
+
+
+[cp]: http://codepen.io/
+[whimsical]: https://whimsical.com
+[ligen]: https://libgen.is
+[fcc]: https://freecodecamp.com
+[fireship]: https://fireship.io 
