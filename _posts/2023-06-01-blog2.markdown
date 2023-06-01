@@ -1,0 +1,17 @@
+---
+layout: post
+title: "My-blog"
+date: 2023-06-01
+category: jekyll 
+permalink: "/my-blog/june"
+---
+
+This is a simple sample blog post that I will be using for the 
+time being and I will soon will realease some articles of my own 
+so as to build my own audience
+
+{% highlight ruby %}
+    It uses the ruby for making highlighting
+    I need to learn ruby for making the
+    theme 
+{% endhighlight %}
