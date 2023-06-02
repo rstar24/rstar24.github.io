@@ -15,7 +15,7 @@ categories: jekyll update
 
 `From beginner to a full stack developer free code camp courses have potential to turn yourself into a coding machine.`
 
-[Ligen][libgen] :
+[Libgen][libgen] :
 
 `The books which will cost you hundreads of ruppes will be made available for free.`
 
@@ -34,6 +34,6 @@ categories: jekyll update
 
 [cp]: http://codepen.io/
 [whimsical]: https://whimsical.com
-[ligen]: https://libgen.is
+[libgen]: https://libgen.is
 [fcc]: https://freecodecamp.com
 [fireship]: https://fireship.io 
