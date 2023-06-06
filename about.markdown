@@ -4,8 +4,16 @@ title: About
 permalink: /about/
 ---
 
-`I am a Student of Computer Science. I like coffee. I have several other interesting ideas about programming and software development.`
+`I am a Student of Computer Science.I like coffee.I like to music.I like poetry,throught I am a novice.`
 
-`I have simple philosophy.`
+`I believe in possiblity to be able to grow plants on moon and mars`
 
-`Just keep playing`
+`Better say that I borrowed the belief from someone.`
+
+`Who like to do yoga in evening.`
+
+`I made this website in a hurry `
+
+`So We have Compromise on looks a little bit`
+
+`Keep Hustling`
